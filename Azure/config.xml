@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Action Path=".\action"></Action>
+  <Lib Path=".\lib="> </Lib>
+  <Config Path=".\config"></Config>
+ </Settings>
