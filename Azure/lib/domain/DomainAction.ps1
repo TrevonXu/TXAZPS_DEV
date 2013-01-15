@@ -5,7 +5,7 @@
 #     1. Change DNS
 #     2. Add Domain
 #     3. Remove Domain
-#
+#1
 #--------------------------------------------------------------------------------
 
 # Stop and fail script when a command fails.
