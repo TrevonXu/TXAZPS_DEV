@@ -5,8 +5,8 @@
 #     1. Change DNS
 #     2. Add Domain
 #     3. Remove Domain
-#1
-# Modified
+#     4. GetHub Server modifi
+>>>>>>> 81a273c211a5ec3fbd4ed9129b100d3684ed68d8
 #--------------------------------------------------------------------------------
 
 # Stop and fail script when a command fails.
